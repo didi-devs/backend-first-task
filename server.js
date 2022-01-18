@@ -4,7 +4,7 @@
  * ***************************************************/
 
 'use strict';
-
+var PORT = process.env.PORT || 3000;
 var fs = require('fs');
 var express = require('express');
 var app = express();
