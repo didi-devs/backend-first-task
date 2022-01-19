@@ -5,6 +5,7 @@
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"license": "MIT",
 	"version": "1.2.0",
+	
 	"dependencies": { 
 		"package-name": "version"
 		
